@@ -1,0 +1,8 @@
+langchain==0.0.204  # Latest tested version of LangChain
+transformers==4.31.0  # Hugging Face transformers library for GPT-2 and GPT-J
+torch==2.0.1  # Required for running GPT models
+faiss-cpu==1.7.4  # FAISS for document retrieval
+sentence-transformers==2.2.2  # Pre-trained embedding model for document retrieval
+langchain-community
+streamlit
+PyPDF2
